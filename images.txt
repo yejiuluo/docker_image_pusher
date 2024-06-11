@@ -1,4 +1,10 @@
-nginx
-kasmweb/nginx:1.25.3
+alpine
+kasmweb/nginx
+python
+dockurr/windows
+mysql
+node
+hectorqin/reader
+1panel/openresty
+portainer/portainer
 xhofe/alist:latest
---platform=linux/arm64 xiaoyaliu/alist
