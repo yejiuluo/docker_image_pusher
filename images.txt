@@ -8,3 +8,4 @@ hectorqin/reader
 1panel/openresty
 portainer/portainer
 xhofe/alist:latest
+sickcodes/docker-osx:latest
